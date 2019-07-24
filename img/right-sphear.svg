@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129.37 308">
+  <defs>
+    <linearGradient id="linear-gradient" x1="174.01" y1="128.64" x2="21.45" y2="198.83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#91a9ff"/>
+      <stop offset="1" stop-color="#3fffec" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>right sphear</title>
+  <path id="right_sphear" data-name="right sphear" d="M129.37,0a95.72,95.72,0,0,0-82.9,47.86L12.82,106.14a95.76,95.76,0,0,0,0,95.72l33.65,58.28A95.72,95.72,0,0,0,129.37,308" style="fill: url(#linear-gradient)"/>
+</svg>
